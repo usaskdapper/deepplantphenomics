@@ -2,6 +2,8 @@
 
 Deep Plant Phenomics is no longer actively maintained. It is available here for historical purposes - however, it is provided as-is with no updates or bug fixes planned.
 
+See [this thread](https://twitter.com/jordanubbens/status/1347273714631585792) for discussion.
+
 # Deep Plant Phenomics
 
 Deep Plant Phenomics (DPP) is a platform for plant phenotyping using deep learning. Think of it as [Keras](https://keras.io/) for plant scientists.
